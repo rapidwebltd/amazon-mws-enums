@@ -1,0 +1,17 @@
+{
+    "name": "rapidwebltd/amazon-mws-enums",
+    "description": "PHP Enums for Amazon MWS feeds",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jordan Hall",
+            "email": "jordan.hall@rapidweb.biz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RapidWeb\\AmazonMwsEnums\\": "src/"
+        }
+    }
+}
