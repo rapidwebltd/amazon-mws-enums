@@ -1,6 +1,6 @@
 {
     "name": "rapidwebltd/amazon-mws-enums",
-    "description": "PHP Enums for Amazon MWS feeds",
+    "description": "PHP enums for Amazon MWS feeds",
     "type": "library",
     "authors": [
         {
